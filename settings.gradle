@@ -1,0 +1,5 @@
+rootProject.name='AutoPark'
+include ':app'
+
+include ':openCVLibrary2411'
+
